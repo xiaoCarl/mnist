@@ -1,12 +1,12 @@
 
 # file 
 
-np_dgrad.py 
+np_tf_dgrad.py 
 这是用numpy写的一个线性回归算法，采用梯度下降的算法，可以对照tensorflow的文件对比看
 
-np_dgrad.py 
-这是用tensor写的一个采用梯度下降的算法，tensor官网提供
 
+tf_dgrad.py 
+这是用tensor写的一个采用梯度下降的算法，tensor官网提供
 
 
 tf_mnist_1.py
